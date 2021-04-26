@@ -1,0 +1,18 @@
+[
+    {
+        "text": "the chicken is great!",
+        "category": "nonveg"
+    },
+    {
+        "text": "i dont like meat",
+        "category": "veg"
+    },
+    {
+        "text": "vegetarian food is great!",
+        "category": "veg"
+    },
+    {
+        "text": "imma eat that chicken",
+        "category": "nonveg"
+    }
+]
